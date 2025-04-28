@@ -1,0 +1,3 @@
+[submodule "dags/gitsub-repo1"]
+	path = dags/gitsub-repo1
+	url = https://github.com/astro-brennan/gitsub-repo1.git
